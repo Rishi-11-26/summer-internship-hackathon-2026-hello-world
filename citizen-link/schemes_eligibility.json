@@ -1,0 +1,118 @@
+{
+  "lastUpdated": "2026-05-02T11:41:10Z",
+  "note": "This file is auto-updated daily by scout_agent.py via GitHub Actions. Do not edit manually.",
+  "schemes": {
+    "maha_lakshmi": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 200000,
+      "ageNote": "Applicant must be 18 years or above.",
+      "sourceUrl": "https://www.telangana.gov.in/government-initiatives/",
+      "lastVerified": "2026-05-02T00:00:00Z"
+    },
+    "rythu_bandhu": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 500000,
+      "ageNote": "Applicant must be 18 years or above and own/cultivate agricultural land.",
+      "sourceUrl": "https://rythubharosa.telangana.gov.in/",
+      "lastVerified": "2026-05-02T11:41:00Z"
+    },
+    "gruha_jyothi": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 1000000,
+      "ageNote": "Applicant must be 18 years or above (head of household).",
+      "sourceUrl": "https://www.telangana.gov.in/government-initiatives/",
+      "lastVerified": "2026-05-02T11:41:01Z"
+    },
+    "epass": {
+      "minAge": 16,
+      "maxAge": 35,
+      "eligibilityLimit": 200000,
+      "ageNote": "Student must be between 16 and 35 years of age depending on the course level.",
+      "sourceUrl": "https://telanganaepass.cgg.gov.in/",
+      "lastVerified": "2026-05-02T11:41:04Z"
+    },
+    "aasara": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 150000,
+      "ageNote": "For Old Age pension, minimum age is 57 years. For Widow/Disability pensions, minimum age is 18 years.",
+      "sourceUrl": "https://www.aasara.telangana.gov.in/",
+      "lastVerified": "2026-05-02T00:00:00Z"
+    },
+    "kalyana_lakshmi": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 200000,
+      "ageNote": "The bride must be at least 18 years old and the groom must be at least 21 years old at the time of marriage.",
+      "sourceUrl": "https://kalyanalakshmi.telangana.gov.in/",
+      "lastVerified": "2026-05-02T00:00:00Z"
+    },
+    "aarogyasri": {
+      "minAge": 0,
+      "maxAge": 99,
+      "eligibilityLimit": 500000,
+      "ageNote": "Open to all ages. The scheme covers the entire BPL family.",
+      "sourceUrl": "https://www.aarogyasri.telangana.gov.in/",
+      "lastVerified": "2026-05-02T00:00:00Z"
+    },
+    "dalit_bandhu": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 1000000,
+      "ageNote": "Applicant must be 18 years or above and hold a valid SC caste certificate.",
+      "sourceUrl": "https://dalitbandhu.telangana.gov.in/",
+      "lastVerified": "2026-05-02T11:41:06Z"
+    },
+    "kcr_kit": {
+      "minAge": 18,
+      "maxAge": 45,
+      "eligibilityLimit": 1000000,
+      "ageNote": "Pregnant women must be between 18 and 45 years of age.",
+      "sourceUrl": "https://www.telangana.gov.in/government-initiatives/",
+      "lastVerified": "2026-05-02T11:41:07Z"
+    },
+    "indiramma_indlu": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 200000,
+      "ageNote": "Applicant must be 18 years or above and must be from a BPL family.",
+      "sourceUrl": "https://indirammaindlu.telangana.gov.in/",
+      "lastVerified": "2026-05-02T11:41:08Z"
+    },
+    "kanti_velugu": {
+      "minAge": 0,
+      "maxAge": 99,
+      "eligibilityLimit": 9999999,
+      "ageNote": "Open to all citizens of Telangana regardless of age.",
+      "sourceUrl": "https://kv.telangana.gov.in/",
+      "lastVerified": "2026-05-02T00:00:00Z"
+    },
+    "cm_overseas": {
+      "minAge": 18,
+      "maxAge": 35,
+      "eligibilityLimit": 500000,
+      "ageNote": "Applicant must be between 18 and 35 years of age.",
+      "sourceUrl": "https://www.minoritywelfare.telangana.gov.in/",
+      "lastVerified": "2026-04-25T00:00:00Z"
+    },
+    "golla_kuruma": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 9999999,
+      "ageNote": "Applicant must be 18 years or above and an active member of a Sheep Breeders Cooperative Society.",
+      "sourceUrl": "https://ahsheep.telangana.gov.in/",
+      "lastVerified": "2026-05-02T00:00:00Z"
+    },
+    "nethannaku_cheyutha": {
+      "minAge": 18,
+      "maxAge": 99,
+      "eligibilityLimit": 9999999,
+      "ageNote": "Applicant must be a practicing weaver, 18 years or above.",
+      "sourceUrl": "https://www.cheyutha.telangana.gov.in/",
+      "lastVerified": "2026-05-02T11:41:10Z"
+    }
+  }
+}
